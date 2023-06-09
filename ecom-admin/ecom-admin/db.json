@@ -1,0 +1,110 @@
+{
+  "admins": [
+    {
+      "name": "sdf",
+      "email": "rnwwebchirag@gmail.com",
+      "password": "12345",
+      "gender": "male",
+      "hobby": "Reading,music,cycling",
+      "city": "vadodara",
+      "image": "g-4.jpeg",
+      "id": 1
+    },
+    {
+      "name": "sdf",
+      "email": "rnwwebchirag@gmail.com",
+      "password": "1234",
+      "gender": "male",
+      "hobby": "Reading,music",
+      "city": "Rajkot",
+      "image": "g-4.jpeg",
+      "id": 2
+    },
+    {
+      "name": "jivan",
+      "email": "j@gmail.com",
+      "password": "12345",
+      "gender": "male",
+      "hobby": "Reading,cycling",
+      "city": "Surat",
+      "image": "aida-batres-_QxzSVWesm0-unsplash.jpg",
+      "id": 3
+    }
+  ],
+  "category": [
+    {
+      "category": "fruits",
+      "id": 1
+    },
+    {
+      "category": "vagitable",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "category": "fruits",
+      "title": "Kiwi Green 3 Units",
+      "price": "₹135",
+      "description": "Legal Disclaimer Flipkart endeavors to ensure the accuracy of the information about the products. It is pertinent to note that, actual product packaging and materials may contain more and/or different information which may include nutritional information/allergen declaration/special instruction for intended use/warning/directions etc. We recommend the consumers to always read the label carefully before using or consuming any products. Please do not solely rely on the information provided on this website. For additional information, please contact the manufacturer",
+      "image": "https://rukminim1.flixcart.com/image/416/416/js4yljk0/fruit/s/u/r/3-un-branded-whole-original-imafdsfxhnqhgn3d.jpeg?q=70",
+      "id": 1
+    },
+    {
+      "category": "fruits",
+      "title": "Green apples have polyphenols",
+      "price": "₹50",
+      "description": "Siddharth Fish Farm, red chambakka rare syzygium samaran gence green water apple java green water champa mala java",
+      "image": "https://m.media-amazon.com/images/I/61Hhar67mmL._SX679_.jpg",
+      "id": 2
+    },
+    {
+      "category": "vagitable",
+      "title": "Carrot 500 g",
+      "price": "₹25",
+      "description": "Legal Disclaimer\nFlipkart endeavors to ensure the accuracy of the information about the products. It is pertinent to note that, actual product packaging and materials may contain more and/or different information which may include nutritional information/allergen declaration/special instruction for intended use/warning/directions etc. We recommend the consumers to always read the label carefully before using or consuming any products. Please do not solely rely on the information provided on this website. For additional information, please contact the manufacturer.",
+      "image": "https://rukminim1.flixcart.com/image/416/416/juk4gi80/vegetable/u/a/m/500-carrot-un-branded-no-whole-original-imaffns64ghsr4va.jpeg?q=70",
+      "id": 3
+    },
+    {
+      "category": "vagitable",
+      "title": "Potato Fresh New Crop 2 kg",
+      "price": "₹48",
+      "description": "Legal Disclaimer\nFlipkart endeavors to ensure the accuracy of the information about the products. It is pertinent to note that, actual product packaging and materials may contain more and/or different information which may include nutritional information/allergen declaration/special instruction for intended use/warning/directions etc. We recommend the consumers to always read the label carefully before using or consuming any products. Please do not solely rely on the information provided on this website. For additional information, please contact the manufacturer.",
+      "image": "https://rukminim1.flixcart.com/image/416/416/kshtxu80/vegetable/f/e/a/1-potato-local-unbranded-no-whole-original-imag6fmst7xhaza8.jpeg?q=70",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "username": "deep",
+      "email": "deep@gmail.com",
+      "password": "415263",
+      "id": 1
+    },
+    {
+      "username": "",
+      "email": "",
+      "password": "",
+      "id": 2
+    },
+    {
+      "username": "",
+      "email": "",
+      "password": "",
+      "id": 3
+    },
+    {
+      "username": "",
+      "email": "",
+      "password": "",
+      "id": 4
+    },
+    {
+      "username": "",
+      "email": "",
+      "password": "",
+      "id": 5
+    }
+  ]
+}
